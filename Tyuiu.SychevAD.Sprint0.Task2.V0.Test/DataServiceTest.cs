@@ -1,18 +1,15 @@
-п»їusing Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tuiu.SychevAD.Sprint0.Task2.V0.Lib;
-
+using Tyuiu.SychevAD.Sprint0.Task2.V0.Lib;
 namespace Tyuiu.SychevAD.Sprint0.Task2.V0.Test
 {
     [TestClass]
     public class DataServiceTest
     {
         [TestMethod]
-        public void CheekGetMassageValid()
+        public void CheckGetMessageValid()
         {
-            var name = "РЎР°С€Р°";
+            var name = "Саша";
             var res = DataService.GetMessage(name);
-            Assert.AreEqual("РџСЂРёРІРµС‚, РЎР°С€Р°", res);
+            Assert.AreEqual("Привет, Саша", res);
         }
     }
 }

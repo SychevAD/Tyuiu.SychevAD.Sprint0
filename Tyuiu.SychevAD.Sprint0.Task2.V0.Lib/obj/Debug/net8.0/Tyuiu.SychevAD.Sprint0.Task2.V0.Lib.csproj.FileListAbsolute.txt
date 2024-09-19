@@ -1,0 +1,12 @@
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.deps.json
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.pdb
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.AssemblyInfoInputs.cache
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.AssemblyInfo.cs
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.sourcelink.json
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\refint\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.pdb
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\ref\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.dll

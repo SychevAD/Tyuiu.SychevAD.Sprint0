@@ -1,0 +1,15 @@
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.exe
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.deps.json
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.runtimeconfig.json
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\bin\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.pdb
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.AssemblyInfoInputs.cache
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.AssemblyInfo.cs
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj.CoreCompileInputs.cache
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.sourcelink.json
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\refint\Tyuiu.SychevAD.Sprint0.Task0.V0.dll
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.pdb
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\Tyuiu.SychevAD.Sprint0.Task0.V0.genruntimeconfig.cache
+C:\Users\cool2\Source\Repos\Tyuiu.SychevAD.Sprint0\Tyuiu.SychevAD.Sprint0.Task0.V0\obj\Debug\net8.0\ref\Tyuiu.SychevAD.Sprint0.Task0.V0.dll
