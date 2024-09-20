@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.SychevAD.Sprint0.Task3.V0.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9f372dac5374f865e2a1d7894b681eb45e43b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42ea6627bc02c0bdda31c696d68659e777b01ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.SychevAD.Sprint0.Task3.V0.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.SychevAD.Sprint0.Task3.V0.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

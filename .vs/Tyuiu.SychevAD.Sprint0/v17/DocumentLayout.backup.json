@@ -3,92 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF873EF6-2139-4564-9CC8-D1FF07D51E6D}|Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task5.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF873EF6-2139-4564-9CC8-D1FF07D51E6D}|Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task5.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E74AF85-8334-4852-98E2-42E83C0F3EC7}|Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task5.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E74AF85-8334-4852-98E2-42E83C0F3EC7}|Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task5.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C340147-50E0-4F14-98AC-3224740A8021}|Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task5.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C340147-50E0-4F14-98AC-3224740A8021}|Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task5.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41150DDD-1BAC-4D97-A733-4D51546E1EAC}|Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task4.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41150DDD-1BAC-4D97-A733-4D51546E1EAC}|Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task4.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41150DDD-1BAC-4D97-A733-4D51546E1EAC}|Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task4.v0.test\\tyuiu.sychevad.sprint0.task4.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{41150DDD-1BAC-4D97-A733-4D51546E1EAC}|Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task4.v0.test\\tyuiu.sychevad.sprint0.task4.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF873EF6-2139-4564-9CC8-D1FF07D51E6D}|Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task5.v0\\tyuiu.sychevad.sprint0.task5.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EF873EF6-2139-4564-9CC8-D1FF07D51E6D}|Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task5.v0\\tyuiu.sychevad.sprint0.task5.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB0019-523D-42B6-A76B-9BDA9E625D1D}|Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task4.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task4.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB0019-523D-42B6-A76B-9BDA9E625D1D}|Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task4.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task4.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB4E688-FACC-41C9-9E1D-B85680820071}|Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task1.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB4E688-FACC-41C9-9E1D-B85680820071}|Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task1.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7538AE2A-C718-4D5B-9C36-AC5C98C7140F}|Tyuiu.SychevAD.Sprint0.Task4.V0\\Tyuiu.SychevAD.Sprint0.Task4.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task4.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7538AE2A-C718-4D5B-9C36-AC5C98C7140F}|Tyuiu.SychevAD.Sprint0.Task4.V0\\Tyuiu.SychevAD.Sprint0.Task4.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task4.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB4E688-FACC-41C9-9E1D-B85680820071}|Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task1.v0\\tyuiu.sychevad.sprint0.task1.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BAB4E688-FACC-41C9-9E1D-B85680820071}|Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task1.v0\\tyuiu.sychevad.sprint0.task1.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF221AE-156A-474F-ACD9-1DB14C43918B}|Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task2.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF221AE-156A-474F-ACD9-1DB14C43918B}|Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task2.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F3C0F48-94DC-4569-A028-47FF97EA8F0F}|Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task3.v0.lib\\tyuiu.sychevad.sprint0.task3.v0.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F3C0F48-94DC-4569-A028-47FF97EA8F0F}|Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task3.v0.lib\\tyuiu.sychevad.sprint0.task3.v0.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E34112-74C7-434E-9AD5-6456F0FD41C2}|Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task3.v0.test\\tyuiu.sychevad.sprint0.task3.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5E34112-74C7-434E-9AD5-6456F0FD41C2}|Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task3.v0.test\\tyuiu.sychevad.sprint0.task3.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F3C0F48-94DC-4569-A028-47FF97EA8F0F}|Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task3.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3C0F48-94DC-4569-A028-47FF97EA8F0F}|Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task3.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FE9D72E-D08A-4FB9-A11A-402082E6351C}|Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyui.sychevad.sprint0.task3.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FE9D72E-D08A-4FB9-A11A-402082E6351C}|Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj|solutionrelative:tyui.sychevad.sprint0.task3.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE24DDB-73BD-4CDE-9167-D4D5F77A9585}|Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task0.v0\\tyuiu.sychevad.sprint0.task0.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1DE24DDB-73BD-4CDE-9167-D4D5F77A9585}|Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task0.v0\\tyuiu.sychevad.sprint0.task0.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00B050FD-D727-4AEC-8750-F45B3BB5C5CC}|Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task2.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00B050FD-D727-4AEC-8750-F45B3BB5C5CC}|Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task2.v0.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{768453A9-417F-4739-AED5-11BF74C96836}|Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\Tyuiu.SychevAD.Sprint0.Task2.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task2.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768453A9-417F-4739-AED5-11BF74C96836}|Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\Tyuiu.SychevAD.Sprint0.Task2.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task2.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FE9D72E-D08A-4FB9-A11A-402082E6351C}|Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyui.sychevad.sprint0.task3.v0\\tyuiu.sychevad.sprint0.task3.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9FE9D72E-D08A-4FB9-A11A-402082E6351C}|Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj|solutionrelative:tyui.sychevad.sprint0.task3.v0\\tyuiu.sychevad.sprint0.task3.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF221AE-156A-474F-ACD9-1DB14C43918B}|Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task2.v0\\tyuiu.sychevad.sprint0.task2.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFF221AE-156A-474F-ACD9-1DB14C43918B}|Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task2.v0\\tyuiu.sychevad.sprint0.task2.v0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE24DDB-73BD-4CDE-9167-D4D5F77A9585}|Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task0.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE24DDB-73BD-4CDE-9167-D4D5F77A9585}|Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task0.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E34112-74C7-434E-9AD5-6456F0FD41C2}|Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task3.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E34112-74C7-434E-9AD5-6456F0FD41C2}|Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task3.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,19 +123,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
-              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
-              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
-              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T03:53:12.391Z",
+              "WhenOpened": "2024-09-20T05:11:00.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T05:10:56.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:29:41.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:29:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:53:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:50.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs",
@@ -127,25 +206,11 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:32:58.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T19:32:58.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
-              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
-              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
-              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T03:52:50.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs",
@@ -153,38 +218,35 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T03:52:34.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T03:52:34.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test",
+              "DocumentIndex": 8,
+              "Title": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T03:54:30.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T03:54:30.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tyuiu.SychevAD.Sprint0.Task5.V0",
+              "DocumentIndex": 9,
+              "Title": "Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T03:56:16.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T03:56:16.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs",
@@ -192,12 +254,11 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:32:48.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T19:32:48.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs",
@@ -209,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
@@ -221,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs",
@@ -229,12 +290,11 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:49:35.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T18:49:35.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs",
@@ -246,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
@@ -258,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
@@ -270,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs",
@@ -282,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs",
@@ -294,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
@@ -306,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs",
@@ -318,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs",
@@ -330,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
               "RelativeDocumentMoniker": "Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
@@ -342,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
@@ -354,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs",
@@ -366,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs",
