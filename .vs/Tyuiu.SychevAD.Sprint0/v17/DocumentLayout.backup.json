@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.test\\tyuiu.sychevad.sprint0.task7.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\DataServiceTest.cs",
@@ -158,12 +158,11 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\DataServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:24:44.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T05:24:44.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataServise.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
@@ -171,7 +170,8 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:23:53.167Z"
+              "WhenOpened": "2024-09-20T05:23:53.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{555B2E40-F101-4AA9-81DD-8C6E4C36E0A8}|Tyuiu.SychevAD.Sprint0.Task7.V0\\Tyuiu.SychevAD.Sprint0.Task7.V0.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{555B2E40-F101-4AA9-81DD-8C6E4C36E0A8}|Tyuiu.SychevAD.Sprint0.Task7.V0\\Tyuiu.SychevAD.Sprint0.Task7.V0.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1A2ACE-B776-4E09-A929-4709035EA53E}|Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib.csproj|solutionrelative:tyuiu.sychevad.sprint0.task7.v0.lib\\dataservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E98C7-2B06-46BA-AFC2-F83604CA5BF1}|Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj|c:\\users\\cool2\\source\\repos\\tyuiu.sychevad.sprint0\\tyuiu.sychevad.sprint0.task7.v0.test\\tyuiu.sychevad.sprint0.task7.v0.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -130,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,20 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0\\Program.cs",
-              "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task7.V0\\Program.cs",
-              "ToolTip": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0\\Program.cs",
-              "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task7.V0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T07:53:55.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\Tyuiu.SychevAD.Sprint0.Task7.V0.Test.csproj",
@@ -175,12 +158,11 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task7.V0.Test\\DataServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:24:44.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T05:24:44.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DataServise.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
@@ -188,11 +170,12 @@
               "RelativeToolTip": "Tyuiu.SychevAD.Sprint0.Task7.V0.Lib\\DataServise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:23:53.167Z"
+              "WhenOpened": "2024-09-20T05:23:53.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Program.cs",
@@ -204,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0\\Tyuiu.SychevAD.Sprint0.Task6.V0.csproj",
@@ -216,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0.Lib\\DataService.cs",
@@ -228,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task6.V0.Test\\DataServiceTest.cs",
@@ -240,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Test\\DataServiceTest.cs",
@@ -252,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0.Lib\\DataService.cs",
@@ -264,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\DataServiceTest.cs",
@@ -276,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Program.cs",
@@ -288,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Test\\Tyuiu.SychevAD.Sprint0.Task4.V0.Test.csproj",
@@ -300,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task5.V0\\Tyuiu.SychevAD.Sprint0.Task5.V0.csproj",
@@ -312,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0.Lib\\DataService.cs",
@@ -324,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task4.V0\\Program.cs",
@@ -336,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task1.V0\\Tyuiu.SychevAD.Sprint0.Task1.V0.csproj",
@@ -348,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task1.V0\\Program.cs",
@@ -360,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0\\Program.cs",
@@ -372,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib.csproj",
@@ -384,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test.csproj",
@@ -396,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Lib\\DataService.cs",
@@ -408,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyui.SychevAD.Sprint0.Task3.V0\\Program.cs",
@@ -420,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task0.V0\\Tyuiu.SychevAD.Sprint0.Task0.V0.csproj",
@@ -432,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0.Lib\\DataService.cs",
@@ -444,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0.Test\\DataServiceTest.cs",
@@ -456,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
               "RelativeDocumentMoniker": "Tyui.SychevAD.Sprint0.Task3.V0\\Tyuiu.SychevAD.Sprint0.Task3.V0.csproj",
@@ -468,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task2.V0\\Tyuiu.SychevAD.Sprint0.Task2.V0.csproj",
@@ -480,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task0.V0\\Program.cs",
@@ -492,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\cool2\\Source\\Repos\\Tyuiu.SychevAD.Sprint0\\Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.SychevAD.Sprint0.Task3.V0.Test\\DataServiceTest.cs",
